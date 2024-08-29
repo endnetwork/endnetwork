@@ -1,4 +1,4 @@
-# END NETWORK
+# Enhanced Node Decentralization (END) Network
 
 ## Mission
 **END NETWORK** aims to build a fast, secure, safe, and affordable blockchain network that revolutionizes the way we interact with digital assets and decentralized applications. Our mission is to create a robust platform that prioritizes security and efficiency while ensuring accessibility for everyone.
